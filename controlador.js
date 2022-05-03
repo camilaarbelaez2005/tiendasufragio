@@ -1,76 +1,76 @@
 //OBJETOS
 let producto1={
-    nombre:"producto1",
+    nombre:"Buso blanco tejido",
     precio:500000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto2={
-    nombre:"producto2",
+    nombre:"Buso amarillo con tiras",
     precio:500000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto3={
-    nombre:"producto3",
+    nombre:"Crop top negro",
     precio:500000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto4={
-    nombre:"producto4",
+    nombre:"Camisa amplia corta",
     precio:500000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto5={
-    nombre:"producto5",
+    nombre:"Zapatos rosados",
     precio:500000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto6={
-    nombre:"producto6",
+    nombre:"Tenis Plataformas Artu",
     precio:500000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto7={
-    nombre:"producto7",
+    nombre:"Zapatos altos negros",
     precio:500000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto8={
-    nombre:"producto8",
+    nombre:"Enterizo negro en cuerina",
     precio:500000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto9={
-    nombre:"producto9",
+    nombre:"Falda animal print",
     precio:500000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto10={
-    nombre:"producto10",
+    nombre:"Falda de jean azul",
     precio:500000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto11={
-    nombre:"producto11",
+    nombre:"Falda corta clara",
     precio:500000,
     estado:"Nuevo",
     foto:""
