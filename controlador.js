@@ -150,11 +150,35 @@ let productos=Array(
     producto12,
     producto13,
     producto14,
-    producto15
+    producto15,
+    producto16,
+    producto17,
+    producto18,
+    producto19,
+    producto20,  
+    
+
 )
 
 //RECORRO EL ARREGLO
+let contenedor=document.getElementById("contenedor")
+let columnas=document.getElementById("columnas")
 productos.forEach(function(producto){
-    console.log(producto.nombre)
+
+
+  
+ let foto=document.createElement("img")
+ foto.classList.add("w-100","img-fluid")
+ foto.src=producto.foto
+ let columna=document.createElement("div")
+ columna.classList.add("col")
+ let tarjeta=document.createElement("div")
+ tarjeta.classList.add("card")
+ tarjeta.appendChild(foto)
+ columna.appendChild(tarjeta)
+ contenedor.appendChild(columna)
+     
+
+
 })
 
