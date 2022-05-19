@@ -63,7 +63,7 @@ pais:"Estados Unidos",
 }
 
 let producto8 = {
-    nombre: "Enterizo negro en cuerina",
+    nombre: "Enterizo negro cuerina",
     precio: 87000,
     estado: "Usada",
     popularidad: "★★★★★",
@@ -95,7 +95,7 @@ let producto11 = {
     estado: "Usada",
     popularidad: "★★",
     foto: "https://firebasestorage.googleapis.com/v0/b/la-tiendita-29138.appspot.com/o/foto16.jfif?alt=media&token=13827990-0e73-4310-9870-b251375e8f12",
-pais:"Estados Unidos",
+    pais:"Estados Unidos",
 }
 
 let producto12 = {
@@ -104,7 +104,7 @@ let producto12 = {
     estado: "Nuevo",
     popularidad: "★★★★",
     foto: "https://firebasestorage.googleapis.com/v0/b/la-tiendita-29138.appspot.com/o/foto17.jfif?alt=media&token=eec0ab69-d567-4a8a-96d2-48b212e56ac0",
-
+    pais:"Estados Unidos",
 }
 
 let producto13 = {
@@ -113,7 +113,7 @@ let producto13 = {
     estado: "Nuevo",
     popularidad: "★★★★★",
     foto: "https://firebasestorage.googleapis.com/v0/b/la-tiendita-29138.appspot.com/o/Jean%20Wide.jfif?alt=media&token=24dc8a1e-21cf-4201-9744-5fede6d6d52e",
-
+    pais:"Estados Unidos",
 }
 
 let producto14 = {
@@ -122,7 +122,7 @@ let producto14 = {
     estado: "usado",
     popularidad: "★★★",
     foto: "https://firebasestorage.googleapis.com/v0/b/la-tiendita-29138.appspot.com/o/foto3.jfif?alt=media&token=5d957406-3d6a-4e3a-95f9-bb121c1469a1",
-
+    pais:"Estados Unidos",
 }
 
 let producto15 = {
@@ -131,7 +131,7 @@ let producto15 = {
     estado: "Nuevo",
     popularidad: "★★★★★",
     foto: "https://firebasestorage.googleapis.com/v0/b/la-tiendita-29138.appspot.com/o/foto4.jfif?alt=media&token=e784733c-d58a-4dae-a935-8087338a5805",
-
+    pais:"Estados Unidos",
 }
 let producto16 = {
     nombre: "Jean Blanco holgado",
@@ -158,7 +158,7 @@ let producto18 = {
     pais:"Estados Unidos",
 }
 let producto19 = {
-    nombre: "Tennis blancos con rosado",
+    nombre: "Tennis blancos-rosado",
     precio: 500000,
     estado: "Nuevo",
     popularidad: "★★★★★",
@@ -230,7 +230,7 @@ let producto27 = {
     pais:"Estados Unidos",
 }
 let producto28 = {
-    nombre: "Camiseta Ajustada Corta",
+    nombre: "Camiseta Ajustada ",
     precio: 46000,
     estado: "Nuevo",
     popularidad: "★★★★",
@@ -238,7 +238,7 @@ let producto28 = {
 pais:"Estados Unidos",
 }
 let producto29 = {
-    nombre: "Camiseta Amplia Corta Manga Corta ",
+    nombre: "Camiseta Manga Corta ",
     precio: 32000,
     estado: "Nuevo",
     popularidad: "★★★★★",
@@ -254,7 +254,7 @@ let producto30 = {
     pais:"Estados Unidos",
 }
 let producto31 = {
-    nombre: "Camiseta ancha mostaza",
+    nombre: "Camiseta mostaza",
     precio: 175000,
     estado: "Nuevo",
     popularidad: "★★",
@@ -302,7 +302,7 @@ let producto36 = {
 pais:"Estados Unidos",
 }
 let producto37 = {
-    nombre: "Pantalon Bota campana",
+    nombre: "Jean Bota campana",
     precio: 115000,
     estado: "Nuevo",
     popularidad: "★★★",
@@ -358,7 +358,7 @@ let producto43 = {
 pais:"Estados Unidos",
 }
 let producto44 = {
-    nombre: "Falda Ajustada Talle Alto",
+    nombre: "Falda Talle Alto",
     precio: 100000,
     estado: "Nuevo",
     popularidad: "★★★★★",
